@@ -32,4 +32,7 @@ public abstract class ReadDatabase extends RoomDatabase {
 // Since we didn't alter the table, there's nothing else to do here.
         }
     };*/
+     /*
+     here test for delete and update
+      */
 }
